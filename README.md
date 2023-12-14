@@ -12,10 +12,10 @@ You will need a C++ compiler that supports C++11 or later.
 ### Installing
 
 1. Clone the repository:
-```git clone https://your-repository-link-here.git```
+```git clone https://github.com/rshkabari/Machine-Learning-Library.git```
 
 2. Navigate to the project directory:
-```cd Machine_Learning_Matrix_Library```
+```cd Machine Learing```
 
 3. Compile the source code:
 ```make```
@@ -50,7 +50,7 @@ Ray Shkabari - rshkabari
 ### Contact:
 Email: rshkabari@gmail.com
 
-Project Link: https://github.com/your_username/repo_name
+Project Link: https://github.com/rshkabari/Machine-Learning-Library
 
 ### License
 This project is not currently under any specific open-source license. If you decide to add a license, update this section to link to the LICENSE file in the repository.
