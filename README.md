@@ -44,13 +44,13 @@ Run the automated tests with:
 ### Contributing:
 Contributions are welcome and greatly appreciated.
 
-### Authors:
+## Authors:
 Ray Shkabari - rshkabari
 
-### Contact:
+## Contact:
 Email: rshkabari@gmail.com
 
 Project Link: https://github.com/rshkabari/Machine-Learning-Library
 
-### License
+## License
 This project is not currently under any specific open-source license. If you decide to add a license, update this section to link to the LICENSE file in the repository.
